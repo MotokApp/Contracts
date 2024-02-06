@@ -1,2 +1,2 @@
-# Contracts
-our contracts
+MyToken deployed to: 0xdE2C43b9AACe77a1aa0EaC395345Ba612b7Eab6B
+Minter address: 0xb8e476D9719159CAe682B91354E1ffA8d2F804e3
