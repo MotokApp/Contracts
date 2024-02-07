@@ -26,5 +26,5 @@ Gambira token plays a vital role within the Motok app ecosystem, providing a con
 
 ### Contract Address
 
-- Contract Address: [0xdE2C43b9AACe77a1aa0EaC395345Ba612b7Eab6B](https://testnet.bscscan.com/token/0xde2c43b9aace77a1aa0eac395345ba612b7eab6b)
-- Minter Address: 0xb8e476D9719159CAe682B91354E1ffA8d2F804e3
+- Token Contract Address: [0xdE2C43b9AACe77a1aa0EaC395345Ba612b7Eab6B](https://testnet.bscscan.com/token/0xde2c43b9aace77a1aa0eac395345ba612b7eab6b)
+- Vault Contract Address: [0xbB1b184d9c37d0CaEfD0F208F2B0402378889f3e](https://testnet.bscscan.com/address/0xbB1b184d9c37d0CaEfD0F208F2B0402378889f3e)
